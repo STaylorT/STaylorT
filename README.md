@@ -2,7 +2,7 @@ Hi, I'm @STaylorT, a computer science undergraduate at the University of Kentuck
 
 I'm using GitHub to organize my academic projects and other programming projects I'm working on for fun.
 
-That's all. (: 
+(: 
 Au revoir.
 
 <!---
