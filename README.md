@@ -1,7 +1,5 @@
 Hi, I'm @STaylorT, a computer science undergraduate at the University of Kentucky.
 
-I'm using GitHub to organize my academic projects and other programming projects I'm working on for fun.
-
 (: 
 
 
