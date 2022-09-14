@@ -1,12 +1,18 @@
-![Intro Header](assets/images/top(orig).gif)
+# Hello! I'm Taylor.
 
-(: 
+## 📖 About Me
+- I'm a software developer currently enjoying full-stack development.
+- I'm a comp sci student at the University of Kentucky.
+
+## 👨‍💻 What I'm up to
+- Finishing senior year in undergrad.
+- Working on developing fun and instructive projects.
+
+## 🥅 Goals
+- Contribute to open source projects.
+- Join a company full-time after graduation.
 
 <table border="0">
-    <tr>
-        <td><b>Stats</b></td>
-        <td><b> Streak</b></td>
-    </tr>
     <tr>
         <td>
             <img height="180em" src="https://github-readme-stats.vercel.app/api?username=STaylorT&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=rose_pine" />
@@ -17,23 +23,24 @@
     </tr>
 </table>
 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=STaylorT&show_icons=true&locale=en&layout=compact&theme=dark" alt="ovi" />
+<div align='center'>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=STaylorT&show_icons=true&locale=en&layout=compact&theme=dark" alt="ovi" />
+</div>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-<details>
+<!-- <details>
 <summary>A list of things</summary>
 <ul>
 <li> this </li>
 <li> and that </li>
 <li> and this too </li>
 </ul>
-</details> 
-
+</details>  -->
+</br>
 <div align='center'>
-    <em>Feel free to connect or chat.</em>
+    <em>Feel free to reach out or connect.</em>
     </br>
     <a href="https://www.linkedin.com/in/sean-taylor-thomas/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <!-- <a href="https://www.instagram.com/dhanushka_m/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
@@ -45,8 +52,6 @@
     <a href="https://github.com/STaylorT/" target="_blank"> <img src="https://visitor-badge.glitch.me/badge?page_id=${STaylorT}.${STaylorT}" alt="GitHub Visitor Count"></a>
 
 </div>
-
-![Intro Header](assets/images/bottom(orig).gif)
 
 <!---
 STaylorT/STaylorT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
