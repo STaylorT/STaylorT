@@ -28,6 +28,12 @@
 </div>
 
 <!--START_SECTION:waka-->
+
+```text
+Markdown   1 hr 27 mins    ████████████████████████▓   98.98 %
+HTML       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+```
+
 <!--END_SECTION:waka-->
 
 <!-- <details>
