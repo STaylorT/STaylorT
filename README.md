@@ -29,12 +29,11 @@
 
 <!--START_SECTION:waka-->
 
-## Weekly Overview
 ```text
-JavaScript   1 hr 31 mins    █████████▒░░░░░░░░░░░░░░░   37.07 %
-Markdown     1 hr 27 mins    █████████░░░░░░░░░░░░░░░░   35.44 %
-JSON         34 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.93 %
-Other        24 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.91 %
+JavaScript   1 hr 31 mins    █████████▒░░░░░░░░░░░░░░░   36.75 %
+Markdown     1 hr 27 mins    ████████▓░░░░░░░░░░░░░░░░   35.14 %
+JSON         34 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.81 %
+Other        24 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.82 %
 ```
 
 <!--END_SECTION:waka-->
