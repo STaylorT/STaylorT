@@ -27,14 +27,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=STaylorT&show_icons=true&locale=en&layout=compact&theme=dark" alt="ovi" />
 </div>
 
-<!--START_SECTION:waka-->
-
-```text
-JavaScript   57 mins         █████████████████████████   99.69 %
-SCSS         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
-```
-
-<!--END_SECTION:waka-->
+<figure><embed src="https://wakatime.com/share/@74f2ab08-85f7-4b52-bcce-8de32deddf7c/bc1be32e-ec28-47a1-b7d2-02959d06aaca.svg"></embed></figure>
 
 <!-- <details>
 <summary>A list of things</summary>
