@@ -3,7 +3,7 @@
 ## 📖 About Me (:
 - I'm a software developer currently focusing on full-stack web development.
 - I'm a comp sci student at the University of Kentucky.
-- A list of things I enjoy spending my free time on: \[ books, chess, music, puzzles, YouTube]
+- A list of things I enjoy spending my free time on: \[ books, chess, music, puzzles, YouTube ]
 
 ## 👨‍💻 What I'm up to
 - Pushing through senior year in undergrad.
