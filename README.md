@@ -11,32 +11,29 @@
 ## 🥅 Goals
 - Contribute to open source projects.
 - Join a company full-time after graduation.
-
-<table border="0">
-    <tr>
-        <td>
-            <img height="180em" src="https://github-readme-stats.vercel.app/api?username=STaylorT&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=rose_pine" />
-        </td>
-        <td>
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=STaylorT&theme=tokyonight" alt="mystreak"/>
-        </td>
-    </tr>
-</table>
-
 <div align='center'>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=STaylorT&show_icons=true&locale=en&layout=compact&theme=dark" alt="ovi" />
+    <table border="0">
+        <tr>
+            <td>
+                <img height="180em"
+                     src="https://github-readme-stats.vercel.app/api/top-langs?username=STaylorT&show_icons=true&locale=en&layout=compact&theme=dark" 
+                     alt="ovi" />
+            </td>
+            <td>
+                <img height="180em" 
+                     src="https://github-readme-streak-stats.herokuapp.com/?user=STaylorT&theme=tokyonight" 
+                     alt="mystreak"/>
+            </td>
+        </tr>
+    </table>
 </div>
 
-<figure><embed src="https://wakatime.com/share/@74f2ab08-85f7-4b52-bcce-8de32deddf7c/bc1be32e-ec28-47a1-b7d2-02959d06aaca.svg"></embed></figure>
+<div align='center'>
+    <img height="400em" src="https://wakatime.com/share/@74f2ab08-85f7-4b52-bcce-8de32deddf7c/8e6fd600-650e-40e5-ac3c-be82e0bbe3bd.svg" alt="ovi" />
+</div>
 
-<!-- <details>
-<summary>A list of things</summary>
-<ul>
-<li> this </li>
-<li> and that </li>
-<li> and this too </li>
-</ul>
-</details>  -->
+<!-- <figure><embed src="https://wakatime.com/share/@74f2ab08-85f7-4b52-bcce-8de32deddf7c/8e6fd600-650e-40e5-ac3c-be82e0bbe3bd.svg"></embed></figure> -->
+
 </br>
 <div align='center'>
     <em>Feel free to reach out or connect.</em>
