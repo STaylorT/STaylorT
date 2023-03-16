@@ -3,15 +3,12 @@
 ## 📖 About Me (:
 - I'm a software developer currently focusing on full-stack web development.
 - I'm a comp sci student at the University of Kentucky.
-- A list of things I enjoy spending my free time on: \[ books, chess, music, puzzles, YouTube ]
+- A list of things I enjoy spending my free time on: \[ books, chess, music, puzzley games, YouTube ]
 
 ## 👨‍💻 What I'm up to
 - Pushing through senior year in undergrad.
-- Working on developing fun and instructive side projects.
+- Travelling
 
-## 🥅 Goals
-- Contribute to open source projects.
-- Join a company full-time after graduation.
 <div align='center'>
     <table border="0">
         <tr>
