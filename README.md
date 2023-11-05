@@ -1,13 +1,10 @@
 # Hello! I'm Taylor.
 
 ## 📖 About Me (:
-- I'm a software developer currently focusing on full-stack web development.
-- I'm a comp sci ALUM at the University of Kentucky.
 - A list of things I enjoy spending my free time on: \[ books, chess, music, puzzley games, YouTube ]
 
 ## 👨‍💻 What I'm up to
-- Pushing through senior year in undergrad.
-- Travelling
+- Working at a _tech company_ in Bentonville, AR 👀
 
 <div align='center'>
     <table border="0">
