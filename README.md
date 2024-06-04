@@ -35,14 +35,14 @@
 <div align='center'>
     <em>Feel free to reach out or connect.</em>
     </br>
-    <a href="https://www.linkedin.com/in/sean-taylor-thomas/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="https://www.linkedin.com/in/staylort/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <!-- <a href="https://www.instagram.com/dhanushka_m/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
     <a href="https://www.facebook.com/dhanushka.madushan.37" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
     -->
     <a href="https://t.me/STaylorT" target="_blank"><img src="https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black" alt="Telegram"></a>
     <a href="https://open.spotify.com/user/taylo.thomas?si=7152b364944d4d27" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&&logo=spotify&logoColor=white" alt="Spotify"></a>
     </br>
-    <a href="https://github.com/STaylorT/" target="_blank"> <img src="https://visitor-badge.glitch.me/badge?page_id=${STaylorT}.${STaylorT}" alt="GitHub Visitor Count"></a>
+<!--     <a href="https://github.com/STaylorT/" target="_blank"> <img src="https://visitor-badge.glitch.me/badge?page_id=${STaylorT}.${STaylorT}" alt="GitHub Visitor Count"></a> -->
 
 </div>
 
