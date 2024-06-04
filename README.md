@@ -1,10 +1,11 @@
-# Hello! I'm Taylor.
-
-## 📖 About Me (:
-- A list of things I enjoy spending my free time on: \[ books, chess, music, puzzley games, YouTube ]
+# I'm Taylor
 
 ## 👨‍💻 What I'm up to
-- Working at a _tech company_ in Bentonville, AR 👀
+- Working at a _tech company_ in AR, USA
+
+## Upcoming Goals
+- On a mission to learn AI skills
+- Starting a business
 
 <div align='center'>
     <table border="0">
