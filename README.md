@@ -1,9 +1,10 @@
 # I'm Taylor
 
 ## 👨‍💻 What I'm up to
-- Working at a _tech company_ in AR, USA
+- Working at a _tech company_ in AR, USA full-time
+- Contributing to a sports betting analytics company part-time
 
-## Upcoming Goals
+## 🥅 Upcoming Goals
 - On a mission to learn AI skills
 - Starting a business
 
