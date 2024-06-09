@@ -26,7 +26,7 @@
 </div>
 
 <div align='center'>
-    <img height="400em" src="https://wakatime.com/share/@74f2ab08-85f7-4b52-bcce-8de32deddf7c/8e6fd600-650e-40e5-ac3c-be82e0bbe3bd.svg" alt="ovi" />
+    <figure><embed src="https://wakatime.com/share/@74f2ab08-85f7-4b52-bcce-8de32deddf7c/af82b1ce-f4ae-4e2a-b158-c8a416144169.svg"></embed></figure>
 </div>
 
 <!-- <figure><embed src="https://wakatime.com/share/@74f2ab08-85f7-4b52-bcce-8de32deddf7c/8e6fd600-650e-40e5-ac3c-be82e0bbe3bd.svg"></embed></figure> -->
