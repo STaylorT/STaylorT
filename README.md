@@ -1,10 +1,7 @@
 # I'm Taylor
 
-## 👨‍💻 What I'm up to
+🙂
 
-## 🥅 Upcoming Goals
-- On a mission to learn AI skills
-- Starting a business
 
 <div align='center'>
     <table border="0">
