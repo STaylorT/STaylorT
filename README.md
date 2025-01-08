@@ -11,11 +11,6 @@
                      src="https://github-readme-stats.vercel.app/api/top-langs?username=STaylorT&show_icons=true&locale=en&layout=compact&theme=dark" 
                      alt="ovi" />
             </td>
-            <td>
-                <img height="180em" 
-                     src="https://github-readme-streak-stats.herokuapp.com/?user=STaylorT&theme=tokyonight" 
-                     alt="mystreak"/>
-            </td>
         </tr>
     </table>
 </div>
