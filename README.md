@@ -1,19 +1,8 @@
-# I'm Taylor
+# Hi I'm Taylor
 
 🙂
 
 
-<div align='center'>
-    <table border="0">
-        <tr>
-            <td>
-                <img height="180em"
-                     src="https://github-readme-stats.vercel.app/api/top-langs?username=STaylorT&show_icons=true&locale=en&layout=compact&theme=dark" 
-                     alt="ovi" />
-            </td>
-        </tr>
-    </table>
-</div>
 
 <!--<div align='center'>
    <figure><img width="700px" height="400px" src="https://wakatime.com/share/@74f2ab08-85f7-4b52-bcce-8de32deddf7c/af82b1ce-f4ae-4e2a-b158-c8a416144169.svg"></img></figure>
